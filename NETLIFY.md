@@ -1,5 +1,9 @@
 # Déploiement Netlify
 
-Ce dossier contient le code complet du site configuré pour Netlify avec Next.js.
-Importe-le dans un nouveau site, avec Node 22 et la commande `npm run build`.
-Le plugin Next.js de Netlify prend en charge les pages et les routes `/api`.
+Le projet est configuré pour Next.js sur Netlify.
+
+- Commande de build : `npm run build`
+- Dossier de publication : `.next`
+- Node.js : 22
+
+Le plugin Next.js de Netlify prend en charge les pages dynamiques et les routes API.
